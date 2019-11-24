@@ -1,0 +1,19 @@
+.menu, .feed, .sidebar {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.menu > div {
+   font-size: 2rem;
+   line-height: 1.5;
+    vertical-align: middle;
+}
+
+.menu > div:hover {
+    background: #eee;
+    cursor: pointer;
+}
+
+.menu  .material-icons {
+    vertical-align: middle;
+}
