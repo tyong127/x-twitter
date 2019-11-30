@@ -4,13 +4,14 @@
 }
 
 .menu > div {
-   font-size: 2rem;
+   font-size: 1.8rem;
    line-height: 1.5;
     vertical-align: middle;
 }
 
 .menu > div:hover {
     background: #eee;
+    color: rgb(118, 201, 248);
     cursor: pointer;
 }
 
